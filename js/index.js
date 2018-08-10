@@ -51,7 +51,7 @@
 				
 					showBannerFunc();
 					
-			    	showInterstitialFunc();
+			    	//showInterstitialFunc();
 			    	
 
 				 console.log('Received Event: ' + id);
