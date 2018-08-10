@@ -81,7 +81,7 @@
 	                overlap: false, // banner will overlap webview 
 	                offsetTopBar: false, // set to true to avoid ios7 status bar overlap
 	                isTesting: false, // receiving test ad
-	                autoShow: true // auto show interstitial ad when loaded
+	                autoShow: false // auto show interstitial ad when loaded
 	            });
 	 
 	            registerAdEvents();
