@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="Madridista Real" version="1.0.0"  xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"> 
-  <name>Madridista Real</name>    
+<widget id="UGT_Aucorsa" version="1.0.0"  xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"> 
+  <name>UGT Aucorsa</name>    
   <description>       
-    App Oficial de Madridista Real, la revista del Real Madrid    
+    App Oficial de la Sección Sindical UGT Aucorsa 
   </description>    
   <author email="jamcweb@gmail.com" href="https://webcordoba.es">
     Juan Antonio Muñoz Castro    
   </author>    
-  /*<content src="http://madridistareal.com/" />*/
   <content src="index.html" />
   <preference name="DisallowOverscroll" value="true" />
   <preference name="android-minSdkVersion" value="14" />
