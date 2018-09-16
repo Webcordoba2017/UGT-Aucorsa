@@ -3,9 +3,13 @@
 			        -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
 			    }
 
-			    iframe{
+			    /*iframe{
 			    width: 100%; height: 100%;margin: 0px; padding: 0PX; border: 0PX; border-top: 0px !important;	
-			    }
+			    }*/
+iframe{max-width:300px !important;}
+object{
+			    width: 100%; height: 100%;margin: 0px; padding: 0PX; border: 0PX; border-top: 0px !important;	
+}
 
 			    body {
 			        -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
